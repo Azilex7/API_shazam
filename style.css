@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+h1{
+    margin-bottom: 0rem;
+}
+
+.musique1{
+    padding-top: 2rem;
+}
+
+.recherche{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.form-control{
+    width: 30rem;
+}
